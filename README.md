@@ -2,6 +2,7 @@ AVPDN: Learning Motion-Robust and Scale-Adaptive Representations for Polyp Detec
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://github.com/xiaochen925/AVPDN/blob/main/intro.pdf)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.11+-red.svg)](https://pytorch.org/)
+
 Our code has been uploaded to GitHub at the link provided in the manuscript: https://github.com/xiaochen925/AVPDN. This repository is set to public access—no permission or login is required for anyone to view and download the code (users can directly click the "Code" button to download all files). In addition, we have also uploaded the final version of the code as supporting material to the submission system of the journal.
 As shown in the figure below, the code can be downloaded by clicking the Code button without logging in.
 <img width="1893" height="826" alt="image" src="https://github.com/user-attachments/assets/b6c7b4c0-c927-4519-ace6-59738d4b47d7" />
